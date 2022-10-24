@@ -1,4 +1,8 @@
 #ifndef MAIN_H
 #define MAIN_H
-Prototype 1
+/**
+ * prototype files
+ * import form gere
+ */
+void reset_to_98(int *n);
 #endif
