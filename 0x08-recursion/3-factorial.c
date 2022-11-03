@@ -3,13 +3,9 @@
 
 
 /**
-
  * factorial - returns the factorial of a given number.
-
  * @n: integer input
-
  * Return: -1 if n less than 0
-
  */
 
 

@@ -3,17 +3,11 @@
 
 
 /**
-
  * check - checks for the square root
-
  * @c: integer
-
  * @x: integer
-
  * Return: int
-
  */
-
 
 
 int check(int c, int x)
