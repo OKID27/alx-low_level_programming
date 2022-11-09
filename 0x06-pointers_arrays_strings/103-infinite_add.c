@@ -54,9 +54,8 @@ char *infinite_add(char *n1, char *n2, char *r, int size_r)
 			break;
 
 		}
-	m = n / 10;
-
-	r[k] = n % 10 + '0';
+ m = n / 10;
+ r[k] = n % 10 + '0';
 
 	}
 
